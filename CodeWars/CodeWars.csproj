@@ -7,7 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="6Kyu\" />
     <Folder Include="8Kyu\" />
   </ItemGroup>
 
